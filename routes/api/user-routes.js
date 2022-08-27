@@ -1,10 +1,13 @@
 const router = require('express').Router();
+// Import functions from user-controller
 const {
   getAllUsers,
   getUserById,
   createUser,
   updateUser,
-  deleteUser
+  deleteUser,
+  addFriend,
+  deleteFriend
 } = require('../../controllers/user-controller');
 
 // Routes for /api/users
@@ -19,6 +22,12 @@ router
   .get(getUserById)
   .put(updateUser)
   .delete(deleteUser);
+
+  // Routes for /api/:id/friends/:friendId
+  router
+    .route('/:id/friends/:friendId')
+    .put(addFriend)
+    .delete(deleteFriend);
 
   module.exports = router;
 
