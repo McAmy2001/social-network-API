@@ -1,5 +1,5 @@
 const { Schema, model } = require('mongoose');
-const validateEmail = require('../utils/validateEmail');
+//const validateEmail = require('../utils/validateEmail');
 
 const UserSchema = new Schema({
   username: {
@@ -13,9 +13,12 @@ const UserSchema = new Schema({
     required: true,
     unique: true,
     lowercase: true,
-    validate: [validateEmail, 'Please enter a valid email address.']
+    //validate: [validateEmail, 'Please enter a valid email address.']
   },
   thoughts: [],
   friends: []
 });
 
+const User = model('User', UserSchema);
+
+module.exports = User;
