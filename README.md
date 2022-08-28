@@ -25,6 +25,7 @@ This is the back end only so you'll need to use Insomnia, Postman, or similar ap
 
 ![Screenshot](./assets/Screen%20Shot%202022-08-28%20at%2011.20.51%20AM%20Small.jpeg)
 ![Screenshot](./assets/Screen%20Shot%202022-08-28%20at%2011.21.47%20AM%20Small.jpeg)
+![Screenshot](./assets/formattedDate.jpeg)
 
 <hr>
 
