@@ -1,4 +1,4 @@
-# social-network-API
+# Bootcamp Module 18: NoSQL, Challenge: social-network-API
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## A social media site API back end connected to MongoDB via mongoose npm.
 <hr>
