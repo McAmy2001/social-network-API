@@ -4,9 +4,9 @@
 <hr>
 Walk through demo videos:
 
-[User routes (including add and delete friends) and first part of thought routes](https://drive.google.com/file/d/1PglojSptrJ6UPB-Rc7vr6rkAl69Wav7C/view?usp=sharing)
+[User routes (including add and delete friends) and first part of thought routes](https://drive.google.com/file/d/1FnuIkFQh_85KhVpQ8BcnsmWC13FA6h_y/view?usp=sharing)
 
-[End of thought routes, reaction routes, and user/thoughts delete](https://drive.google.com/file/d/1-Sua8ypB05JIPBJEw61ZMuVmXCz5NFvm/view?usp=sharing)
+[End of thought routes, reaction routes, and user/thoughts delete](https://drive.google.com/file/d/1EF1T_pQvgr4V7gBgDxDx0Ri5LWNUY2rK/view?usp=sharing)
 <hr>
 
 ## Table of Contents:
