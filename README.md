@@ -1,4 +1,4 @@
-# Bootcamp Module 18: NoSQL, Challenge: social-network-API
+# Social-Network-API
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## A social media site API back end connected to MongoDB via mongoose npm.
 <hr>
@@ -12,6 +12,7 @@ Walk through demo videos:
 ## Table of Contents:
 - [Installation](#installation)
 - [Usage](#usage)
+- [Technologies](#technologies)
 - [License](#license)
 - [Contributing](#contributing)
 - [Testing](#tests)
@@ -28,6 +29,12 @@ This is the back end only so you'll need to use Insomnia, Postman, or similar ap
 ![Screenshot](./assets/formattedDate.jpeg)
 
 <hr>
+
+## Technologies
+- Javascript
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+- [Express](https://expressjs.com/)
 
 ## License 
 &copy; 2022 by Amy McCabe. 
